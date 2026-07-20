@@ -44,5 +44,6 @@ Click Save — you're done! Start solving problems.
 | Difficulty | Problem | Solution |
 |:---:|---|---|
 | 🟢 Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [View Solution](Easy/binary-search/solution.cpp) |
+| 🟢 Easy | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [View Solution](Easy/palindrome-number/solution.cpp) |
 | 🟡 Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [View Solution](Medium/search-in-rotated-sorted-array/solution.cpp) |
 | 🟡 Medium | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [View Solution](Medium/search-in-rotated-sorted-array-ii/solution.cpp) |
